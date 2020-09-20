@@ -1,4 +1,4 @@
-# RepoSJX6
+## RepoSJX6
 MarketRiskMeasure app Dev and Deploy kits 
 App still in test stages @v0.0.1 beta0.1 test-stages
 programmed with MATLAB R2019A
@@ -8,3 +8,4 @@ All images included are stock images
 Ideology: Dr.D.Majumdar
 Coding: B.Biswas
 
+# Repository is a development over the Repository WolfDev8675/RepoSJX6
