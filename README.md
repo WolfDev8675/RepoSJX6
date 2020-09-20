@@ -1,4 +1,4 @@
-## RepoSJX6
+# RepoSJX6
 MarketRiskMeasure app Dev and Deploy kits 
 
 App still in test stages @v0.0.1 beta0.1 test-stages
@@ -12,4 +12,4 @@ Ideology: Dr.D.Majumdar
 
 Coding: B.Biswas
 
-# Repository is a development over the previous repository WolfDev8675/RepoSJX6
+#* Repository is a development over the previous repository WolfDev8675/RepoSJX6
