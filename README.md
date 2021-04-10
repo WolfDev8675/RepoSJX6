@@ -14,4 +14,4 @@ Coding: B.Biswas
 
 ## Repository is a development over the previous repository WolfDev8675/RepoSJX6
 &copy;[WolfDev8675](https://github.com/WolfDev8675)
-@https://github.com/WolfDev8675
+
