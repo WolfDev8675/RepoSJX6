@@ -12,6 +12,6 @@ Ideology: Dr.D.Majumdar
 
 Coding: B.Biswas
 
-## Repository is a development over the previous repository WolfDev8675/RepoSJX6
+## Repository is a development over the previous repository WolfDev8675/RepoSJX3
 &copy;[WolfDev8675](https://github.com/WolfDev8675)
 
